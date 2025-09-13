@@ -120,24 +120,6 @@ Wind Turbine Power Predictor/
     - Navigate to: `http://localhost:5000`
     - The application should now be running locally
 
-### Alternative Versions:
-
-#### Streamlit Version:
-
-```bash
-cd Streamlit_Version
-pip install streamlit
-streamlit run app.py
-```
-
-#### Mobile App Version:
-
--   Download the APK file from the `Mobile_App_Version/` folder
--   Install on your Android device
--   No additional setup required
-
-<hr>
-
 ## 🚀 Usage Guide:
 
 ### Web Application:
@@ -260,5 +242,6 @@ flake8
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
+
 
 
