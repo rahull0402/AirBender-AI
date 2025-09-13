@@ -1,6 +1,1 @@
-diff --git a/.python-version b/.python-version
-new file mode 100644
---- /dev/null
-+++ b/.python-version
-@@
-+3.12.11
+3.12.11
